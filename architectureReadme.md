@@ -57,7 +57,9 @@
 ```
 
 好处:  组件之间不需要互相依赖,依赖Router即可,实现解耦
+
 改进:  添加了MGRouterDocument : 作为 组件和组件方法 的说明文档
+
 ![GitHub Logo](/router_summary@2x.png)
 
 
